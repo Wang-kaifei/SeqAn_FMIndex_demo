@@ -1,16 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\OneDrive - mails.ucas.ac.cn\utils_python\my_project\my_project.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <CustomBuild Include="D:\OneDrive - mails.ucas.ac.cn\utils_python\my_project\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{91D439BC-28D7-3A74-BB87-F1598FCB7205}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
 </Project>
