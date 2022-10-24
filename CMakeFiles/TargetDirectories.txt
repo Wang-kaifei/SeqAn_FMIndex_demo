@@ -1,3 +1,0 @@
-D:/OneDrive - mails.ucas.ac.cn/utils_python/my_project_build/vs2022/CMakeFiles/my_project.dir
-D:/OneDrive - mails.ucas.ac.cn/utils_python/my_project_build/vs2022/CMakeFiles/ALL_BUILD.dir
-D:/OneDrive - mails.ucas.ac.cn/utils_python/my_project_build/vs2022/CMakeFiles/ZERO_CHECK.dir
